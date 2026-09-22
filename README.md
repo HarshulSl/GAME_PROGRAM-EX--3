@@ -43,4 +43,4 @@ To replace the default third person character mesh with a custom skeletal mesh a
 
 
 ## Result
-The default Third Person C
+Thus the replacement of the default third person character mesh with a custom skeletal mesh and apply new animations using an animation blueprint was executed sucessfully.
